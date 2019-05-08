@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import { Route } from 'react-router';
 import { Layout } from './components/Layout';
-import Product from './components/Product/Product';
-import DuplicateProduct from './components/Product/DuplicateProduct';
+import Contact from './components/Contacts/Contact';
+
 
 export default class App extends Component {
   displayName = App.name
