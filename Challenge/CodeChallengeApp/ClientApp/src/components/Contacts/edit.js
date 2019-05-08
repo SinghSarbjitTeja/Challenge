@@ -16,7 +16,7 @@ class Edit extends React.Component {
             errors: {}
         }
         this.handleInputChange = this.handleInputChange.bind(this);
-        this.saveContactCheck = this.saveContactCheck.bind(this);
+       
     };
 
 
