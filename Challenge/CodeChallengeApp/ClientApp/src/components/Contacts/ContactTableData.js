@@ -27,4 +27,4 @@ class ContactTableData extends React.Component {
         );
     }
 }
-export default contactTableData;
+export default ContactTableData;
