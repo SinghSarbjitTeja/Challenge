@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Product.Persistence</name>
+    </assembly>
+    <members>
+        <member name="M:Product.Persistence.Controllers.ProductController.Get">
+             EndPoint- GET: api/Product
+        </member>
+    </members>
+</doc>
