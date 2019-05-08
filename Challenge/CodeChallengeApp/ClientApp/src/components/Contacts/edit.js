@@ -66,7 +66,7 @@ class Edit extends React.Component {
                     </Modal.Content>
                     <Modal.Actions>
                         <Button color='grey' onClick={() => this.props.closeModal()} >Cancel</Button>
-                        <Button color='blue' onClick={() => this.saveContactCheck(selectedContact)}>Save</Button>
+                        <Button color='blue' onClick={() => this.saveContact(selectedContact)}>Save</Button>
                     </Modal.Actions>
                 </Modal>
             </div>
